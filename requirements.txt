@@ -3,3 +3,7 @@ numpy
 coolprop
 pydantic
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> ade9898c816075b6b5e10bf1c86793e07b33c086
